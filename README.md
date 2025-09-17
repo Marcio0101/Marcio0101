@@ -10,10 +10,6 @@
 
 🔎 Também sou curioso sobre DevOps
 
-✒️ Eu gosto de no meu tempo livre Projetos pessoais e jogar com a galera;
-
-📚 Lendo: Livros de Economia/investimentos
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
@@ -46,7 +42,7 @@
 <div>
 <a href="https://github.com/Marcio0101">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio0101&layout=compact&langs_count=7&theme=dark"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
