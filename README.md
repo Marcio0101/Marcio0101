@@ -6,7 +6,7 @@
 
 🎓 Sou Formado em Ciências da Computação
 
-👩‍💻 Atualmente eu trabalho como Desenvolvedor de Sistemas @ PaulOOctavio
+👩‍💻 Atualmente eu trabalho como Desenvolvedor de Sistemas @PaulOOctavio
 
 🔎 Também sou curioso sobre DevOps
 
