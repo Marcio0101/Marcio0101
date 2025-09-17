@@ -38,12 +38,12 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![jEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/Marcio0101">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio0101&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<!-- ### GitHub Stats ⚡-->
+<!-- <div> -->
+<!-- <a href="https://github.com/Marcio0101"> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio0101&layout=compact&langs_count=7&theme=dark"/> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+<!-- </div> -->
 
 ### Entre em contato comigo! 📭
 <div>
