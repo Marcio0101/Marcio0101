@@ -18,7 +18,7 @@
 - **Autenticação e autorização** com Keycloak, OAuth2 Resource Server e JWT
 - **Front-ends SPA** em Angular + TypeScript (Angular Material, RxJS, integração com Keycloak)
 - **Banco de dados**: PostgreSQL, Oracle, SQL Server, MySQL e MariaDB — procedures, functions, jobs, relatórios e migrations com Flyway
-- **Integração com ERP** (MEGA) e sistemas legados, relatórios com JasperReports e geração de Excel/PDF (Apache POI, OpenPDF)
+- **Integração com ERP** (MEGA) e sistemas legados em DataFlex, relatórios com JasperReports e geração de Excel/PDF (Apache POI, OpenPDF)
 - **CI/CD** com Jenkins (pipelines com build, testes, SonarQube e deploy em containers)
 - **Infraestrutura** em VPS com Docker / Docker Compose, Traefik, Caddy e Nginx + Certbot
 - **Automações** com Node-RED, bots de WhatsApp (Evolution API), web scraping com Selenium e scripts Python
@@ -38,6 +38,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![DataFlex](https://img.shields.io/badge/DataFlex-0055A5?style=for-the-badge&logoColor=white)
 
 **Front-End**
 
