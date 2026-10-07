@@ -63,6 +63,8 @@ E ainda: JSF, Java Swing, DataFlex, MariaDB, Flyway, JWT, Swagger/OpenAPI, Angul
 
 ### GitHub Stats ⚡
 
+<div align="center">
+
 <a href="https://github.com/Marcio0101">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Marcio0101&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
@@ -75,6 +77,8 @@ E ainda: JSF, Java Swing, DataFlex, MariaDB, Flyway, JWT, Swagger/OpenAPI, Angul
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcio0101/Marcio0101/output/github-snake.svg" />
   <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Marcio0101/Marcio0101/output/github-snake.svg" />
 </picture>
+
+</div>
 
 ### Entre em contato comigo! 📭
 <div>
