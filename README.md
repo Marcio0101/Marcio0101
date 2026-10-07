@@ -46,7 +46,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,redis,supabase,nginx,linux,grafana,git,github,githubactions,selenium&perline=10" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=cypress,vitest,vscode,idea,postman,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cypress,vitest,vscode,postman,figma&perline=10" />
 </p>
 
 E ainda: JSF, Java Swing, DataFlex, MariaDB, Flyway, JWT, Swagger/OpenAPI, Angular Material, Chart.js, Leaflet, SonarQube, Traefik, Caddy, JUnit 5, Testcontainers, Playwright, Node-RED, Evolution API (WhatsApp), Pandas, Streamlit, Plotly e Claude Code.
