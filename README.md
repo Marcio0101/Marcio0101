@@ -17,7 +17,7 @@
 - **APIs REST** com Java 17/21 e Spring Boot 3 (Web, Data JPA, Security, Validation, Actuator, Mail, WebSocket)
 - **Autenticação e autorização** com Keycloak, OAuth2 Resource Server e JWT
 - **Front-ends SPA** em Angular + TypeScript (Angular Material, RxJS, integração com Keycloak)
-- **Banco de dados**: PostgreSQL, Oracle e SQL Server — procedures, functions, jobs, relatórios e migrations com Flyway
+- **Banco de dados**: PostgreSQL, Oracle, SQL Server, MySQL e MariaDB — procedures, functions, jobs, relatórios e migrations com Flyway
 - **Integração com ERP** (MEGA) e sistemas legados, relatórios com JasperReports e geração de Excel/PDF (Apache POI, OpenPDF)
 - **CI/CD** com Jenkins (pipelines com build, testes, SonarQube e deploy em containers)
 - **Infraestrutura** em VPS com Docker / Docker Compose, Traefik, Caddy e Nginx + Certbot
@@ -57,6 +57,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
