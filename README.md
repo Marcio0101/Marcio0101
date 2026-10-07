@@ -61,12 +61,14 @@ E ainda: JSF, Java Swing, DataFlex, MariaDB, Flyway, JWT, Swagger/OpenAPI, Angul
 - 🤖 **Bots e scrapers** — envio automatizado no WhatsApp e coleta de índices econômicos
 - 🎮 **Jogos e projetos pessoais** — 2048, Sudoku, Dominó, Jogo da Velha e uma game store
 
-<!-- ### GitHub Stats ⚡-->
-<!-- <div> -->
-<!-- <a href="https://github.com/Marcio0101"> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio0101&layout=compact&langs_count=7&theme=dark"/> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-<!-- </div> -->
+### GitHub Stats ⚡
+
+<a href="https://github.com/Marcio0101">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Marcio0101&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Marcio0101&theme=default&hide_border=true&locale=pt_BR" />
+  </picture>
+</a>
 
 ### Entre em contato comigo! 📭
 <div>
