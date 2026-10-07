@@ -1,5 +1,7 @@
 # E aí, meu nome é Márcio Araújo 👋
 
+> **+6 anos construindo sistemas corporativos em Java/Spring Boot e Angular — do banco de dados ao deploy.**
+
 ### Sobre mim
 
 💻 Sou desenvolvedor **Full Stack** com foco em **Back-End (Java + Spring Boot)**
