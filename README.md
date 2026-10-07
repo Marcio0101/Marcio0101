@@ -16,7 +16,7 @@
 
 - **APIs REST** com Java 17/21 e Spring Boot 3 (Web, Data JPA, Security, Validation, Actuator, Mail, WebSocket)
 - **Autenticação e autorização** com Keycloak, OAuth2 Resource Server e JWT
-- **Front-ends SPA** em Angular + TypeScript (Angular Material, RxJS, integração com Keycloak) e aplicações web em JSF
+- **Front-ends SPA** em Angular + TypeScript (Angular Material, RxJS, integração com Keycloak), aplicações web em JSF e desktop em Java Swing
 - **Banco de dados**: PostgreSQL, Oracle, SQL Server, MySQL e MariaDB — procedures, functions, jobs, relatórios e migrations com Flyway
 - **Integração com ERP** (MEGA) e sistemas legados em DataFlex, relatórios com JasperReports e geração de Excel/PDF (Apache POI, OpenPDF)
 - **CI/CD** com Jenkins (pipelines com build, testes, SonarQube e deploy em containers)
@@ -48,6 +48,7 @@
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
